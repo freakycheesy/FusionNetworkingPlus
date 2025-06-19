@@ -7,8 +7,7 @@ using System;
 using System.Net;
 using System.Net.Sockets;
 
-namespace Riptide.Transports.Udp
-{
+namespace Riptide.Transports.Udp {
     /// <summary>The kind of socket to create.</summary>
     public enum SocketMode
     {
